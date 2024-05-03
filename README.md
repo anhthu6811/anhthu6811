@@ -17,7 +17,7 @@
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
-- ⚡ Fun fact: I can sleep 24/24
+- ⚡ Fun fact: I could sleep 24/7
 
 <!---
 anhthu6811/anhthu6811 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
